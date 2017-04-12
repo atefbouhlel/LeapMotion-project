@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="LeapProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Projet RVIG\Scripts\Virtual3DTrackerLeap.cs">
+    <Files>
+      <File FileName="Assets\Projet RVIG\Scripts\Virtual3DTrackerLeap.cs" Line="64" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
